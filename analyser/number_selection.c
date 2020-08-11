@@ -107,8 +107,8 @@ int main(int argc, char *argv[])
 
 	output1 = fopen("three_num.txt","rw+");
 	output2 = fopen("four_num.txt","rw+");
-	output3 = fopen("huiwen_num.txt","rw+");
-	output4 = fopen("headtail_num.txt","rw+");
+	output3 = fopen("headtail_num.txt","rw+");
+	output4 = fopen("huiwen_num.txt","rw+");
 	if(output1 == NULL || 
 	   output2 == NULL || 
 	   output3 == NULL || 
